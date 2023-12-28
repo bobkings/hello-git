@@ -1,1 +1,1 @@
-console.log("Hola de nuevo amigos");
+console.log("New Hola de nuevo amigos");
